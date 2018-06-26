@@ -1,0 +1,17 @@
+source 'https://rubygems.org'
+gem 'cucumber'
+<<<<<<< HEAD
+gem 'headless'
+gem 'nokogiri'
+gem 'rake'
+gem 'selenium-webdriver'
+gem 'syntax'
+=======
+gem 'watir'
+gem 'watir-webdriver'
+gem 'selenium-webdriver'
+gem 'nokogiri'
+gem 'gherkin'
+gem 'rspec'
+>>>>>>> 21d218244e56f91f0317e524dda458268c2fa125
+gem 'page-object'
